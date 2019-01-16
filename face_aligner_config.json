@@ -1,0 +1,20 @@
+{
+    "network_model": "./model/det3,1",
+    "data_mean": [
+        127.5,
+        127.5,
+        127.5
+    ],
+    "feature_layer": "conv6_3_output",
+    "batch_size": 4,
+    "input_scale": 0.0078125,
+    "raw_scale": 1.0,
+    "channel_swap": "0, 1, 2",
+    "mirror_trick": 0,
+    "image_as_grey": 0,
+    "normalize_output": 0,
+    "cpu_only": 1,
+    "gpu_id": 0,
+    "input_width": 48,
+    "input_height": 48
+}

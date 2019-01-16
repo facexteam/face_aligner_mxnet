@@ -1,0 +1,15 @@
+{
+    "network_model": "C:/zyf/dnn_models/face_models/insight-face/model-r34-amf/model,0",
+    "feature_layer": "fc1_output",
+    "batch_size": 4,
+    "input_width": 112,
+    "input_height": 112,
+    "image_as_grey": 0,
+    "channel_swap": "2, 1, 0",
+    "data_mean": "",
+    "input_scale": 1.0,
+    "mirror_trick": 1,
+    "normalize_output": 1,
+    "cpu_only": 0,
+    "gpu_id": 0
+}

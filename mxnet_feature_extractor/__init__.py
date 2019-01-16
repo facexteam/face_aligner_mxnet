@@ -1,0 +1,1 @@
+from .mxnet_feature_extractor import MxnetFeatureExtractor
